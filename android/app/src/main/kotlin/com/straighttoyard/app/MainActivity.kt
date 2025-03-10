@@ -1,4 +1,4 @@
-package com.straighttoyard.app
+package com.straighttoyards.app
 
 import io.flutter.embedding.android.FlutterActivity
 
